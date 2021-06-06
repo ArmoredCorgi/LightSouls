@@ -79,7 +79,11 @@ Content/Environment/*
 
 #Imported Content
 Content/AssetPacks/*
-Content/Imports/*
+Content/BossyEnemy/*
+Content/Crystals/*
+Content/HeavyKnight/*
 Content/FXVarietyPack/*
 Content/InfinityBladeEffects/*
+
+Content/Imports/*
 Resources/*
